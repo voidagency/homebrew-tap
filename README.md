@@ -3,6 +3,7 @@
 [Opsifier](https://opsifier.com) is an open-source control panel that deploys apps and databases on your own server. This tap installs its command line.
 
 ```sh
+brew trust voidagency/tap      # Homebrew 7 and later ask once before using a tap
 brew install voidagency/tap/opsifier
 opsifier --help
 ```

@@ -1,6 +1,6 @@
 cask "opsifier" do
-  version "0.7.1"
-  sha256 "2d204e816f8e159cc061e1c2bd3f86f0cf27f799a6d1141114630ec77e3fc281"
+  version "0.8.0"
+  sha256 "a2ea58df5cceab06fe8ce5fbe95456d0bb3fd9dc6775d77e0f0565ef85ded487"
 
   url "https://github.com/voidagency/opsifier/releases/download/v#{version}/opsifier"
   name "Opsifier"
